@@ -1,0 +1,6 @@
+(32, '1346-01-28', 'Andromeda', 'Curmino'),
+(33, '1348-01-11', 'Antennae', 'Cherubo'),
+(34, '1276-02-16', 'Hoag's', 'Jordano'),
+(35, '1069-02-23', 'Medusa Merger', 'Bersko'),
+(36, '1320-08-16', 'Milky Way', 'Nippo'),
+(37, '1445-10-09', 'Tapdole', 'Cherubo'),
